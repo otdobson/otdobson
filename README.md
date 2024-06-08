@@ -11,5 +11,5 @@ I am a senior at Shippensburg Area Senior High School and I am also enrolled in 
 
 I am also taking various courses on coursea for extra knowledge and more education on my fosued trade.
 
-Visit my Information Technology Portfolio at  [Information Tech Portfolio](https://github.com/otdobson/otdobson/raw/main/itportfolio)
+Visit my Information Technology Portfolio at  [Information Tech Portfolio](https://github.com/otdobson/otdobson/raw/main/itportfolio.pdf)
 
